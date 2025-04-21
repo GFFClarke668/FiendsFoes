@@ -1,4 +1,4 @@
-# Game Content for Swords & Wizardry
+# Fiends & Foes for Swords & Wizardry
 
 > Compatible with the Swords & Wizardry rules
 
