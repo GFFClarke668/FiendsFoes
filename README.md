@@ -39,3 +39,6 @@ This module may also include material from the **System Reference Document 5.1 (
 Artwork sourced from **game-icons.net** is separately licensed under the **Creative Commons Attribution 3.0 International License (CC BY 3.0)** and is not designated as AELF Open Gaming Content by this module.
 
 See [LICENSE.md](LICENSE.md) for the licensing and attribution notices that apply to this distribution.
+
+
+https://github.com/GFFClarke668/FiendsFoes/releases/latest/download/module.json?utm_source=chatgpt.com
