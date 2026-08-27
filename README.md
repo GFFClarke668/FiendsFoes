@@ -7,7 +7,7 @@ A Foundry Virtual Tabletop content module providing a compendium of **Fiends & F
 - Foundry Virtual Tabletop v12 or later
 - The `swords-wizardry` game system
 
-The module has currently been verified on Foundry VTT v12. Compatibility with later Foundry generations should be updated only after testing.
+The module has currently been verified on Foundry VTT v12 - Foundry VTT v14
 
 ## Installation
 
