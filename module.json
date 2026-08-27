@@ -19,7 +19,7 @@
  "compatibility": {
   "minimum": "12",
   "verified": "14"
-}
+},
   "relationships": {
     "systems": [
       {
