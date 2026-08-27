@@ -40,5 +40,4 @@ Artwork sourced from **game-icons.net** is separately licensed under the **Creat
 
 See [LICENSE.md](LICENSE.md) for the licensing and attribution notices that apply to this distribution.
 
-
-https://github.com/GFFClarke668/FiendsFoes/releases/latest/download/module.json?
+https://github.com/GFFClarke668/FiendsFoes/releases/latest/download/module.json
