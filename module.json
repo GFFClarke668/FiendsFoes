@@ -16,10 +16,10 @@
   "license": "https://github.com/GFFClarke668/FiendsFoes/blob/main/LICENSE.md",
   "bugs": "https://github.com/GFFClarke668/FiendsFoes/issues",
   "changelog": "https://github.com/GFFClarke668/FiendsFoes/blob/main/CHANGELOG.md",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-  },
+ "compatibility": {
+  "minimum": "12",
+  "verified": "14"
+}
   "relationships": {
     "systems": [
       {
