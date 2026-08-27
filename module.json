@@ -1,41 +1,44 @@
 {
   "id": "fiends-and-foes",
   "title": "Fiends & Foes",
+  "description": "A compendium of Fiends & Foes creatures for the Swords & Wizardry game system in Foundry Virtual Tabletop.",
   "version": "1.0.0",
+  "authors": [
+    {
+      "name": "GFFClarke",
+      "url": "https://github.com/GFFClarke668/FiendsFoes"
+    }
+  ],
+  "url": "https://github.com/GFFClarke668/FiendsFoes",
   "manifest": "https://github.com/GFFClarke668/FiendsFoes/releases/latest/download/module.json",
-  "download": "https://github.com/GFFClarke668/FiendsFoes/releases/download/1.0.0/module.zip",
-    "compatibility": {
-  "minimum": "12",
-  "verified": "12"
+  "download": "https://github.com/GFFClarke668/FiendsFoes/releases/download/v1.0.0/module.zip",
+  "readme": "https://github.com/GFFClarke668/FiendsFoes/blob/main/README.md",
+  "license": "https://github.com/GFFClarke668/FiendsFoes/blob/main/LICENSE.md",
+  "bugs": "https://github.com/GFFClarke668/FiendsFoes/issues",
+  "changelog": "https://github.com/GFFClarke668/FiendsFoes/blob/main/CHANGELOG.md",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
   },
   "relationships": {
     "systems": [
       {
         "id": "swords-wizardry",
-        "type": "system",
-        "compatibility": {}
+        "type": "system"
       }
     ]
   },
-  "authors": [
-    {
-      "name": "GFFClarke",
-      "flags": {}
-    }
-  ],
   "packs": [
     {
       "name": "actors",
-      "label": "Actors",
+      "label": "Fiends & Foes Actors",
       "path": "packs/actors",
       "type": "Actor",
+      "system": "swords-wizardry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "swords-wizardry",
-      "flags": {}
+      }
     }
   ]
-  
 }
